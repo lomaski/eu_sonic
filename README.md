@@ -1,4 +1,9 @@
 # Concurso de Projetos
 Concurso de Projetos
 
-Eu + Sonic 
+Sonic, the Hedgehog
+
+- HTML
+- CSS
+
+Eu amava Sonic 💜💜
