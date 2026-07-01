@@ -145,3 +145,13 @@ footer a::after{
 footer .githunt{
     width: 20px;
 }
+
+@media (max-width: 768px) {
+    header img{
+        width: 100%;
+    }
+
+    form input {
+        width: 100%; /* Faz os inputs ocuparem toda a largura disponível em telas menores */
+    }
+}
